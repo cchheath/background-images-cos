@@ -1,2 +1,5 @@
 # background-images-cos
-Subtle background images that could be used for layered webpages.
+Background images for layered webpages.
+
+Photoshop files are sized at 2000 px by 1000 px.
+Images are taken from Unsplash.
